@@ -7,6 +7,7 @@ jQuery(function() {
 	// scroller
 	scroller.init();
 });
+function EditJS() {}
 
 // cycle scroll gallery init
 function initCycleCarousel() {
